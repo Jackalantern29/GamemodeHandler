@@ -1,0 +1,5 @@
+main: com.jackalantern29.gamemodehandler.GamemodeHandler
+version: 0.1
+api-version: 1.13
+author: Jackalantern29
+name: GamemodeHandler
